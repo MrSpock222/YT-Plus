@@ -3,6 +3,7 @@
 packages/
 tmp/
 !Tweaks/YTLite/.gitkeep
+Tweaks/YTLite/*
 Resources/
 *.ipa
 .vscode
